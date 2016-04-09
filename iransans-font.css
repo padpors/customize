@@ -1,0 +1,11 @@
+<style type="text/css" media="screen, print">
+
+    @font-face {
+      font-family: "sans";
+      src: url("http://discourse.padpors.com/uploads/default/original/1X/efed0c5e0ba6f7bfdfb74f4e731863dd612694c1.ttf");
+    }
+    
+  body, body input, body button, body select, body textarea {
+    font-family: "sans";}
+  </style>
+
